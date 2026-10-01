@@ -1839,21 +1839,6 @@ const isIt = language === "it";
 
 
 
-                            <CalendarDays
-
-
-
-                              size={19}
-
-
-
-                              className="pointer-events-none absolute left-5 top-1/2 -translate-y-1/2 text-[#d9b27c]"
-
-
-
-                            />
-
-
 
                             <input
 
@@ -1891,7 +1876,7 @@ const isIt = language === "it";
 
 
 
-                              className="reservation-input pl-14"
+                              className="reservation-input"
 
 
 
